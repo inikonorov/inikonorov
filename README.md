@@ -1,15 +1,11 @@
 ### Hi, I'm Ivan 👋
 
 🧔 22 years old <br />
-🏠 Chelyabinsk, Russia <br />
+🏠 Junior Frontend Developer at <a href="https://unit6.dev/" target="_blank">UNIT6</a> <br />
 ❤️ Fell in love with JS <br />
 📚 Non-fiction <br />
 🎥 Psychological thrillers <br />
 🎲 Board games
-
-### Work
-😘 Junior Full-Stack Developer at <a href="https://introvert.bz/" target="_blank">Introvert</a> <br />
-😍 Junior Frontend Developer at <a href="https://unit6.dev/" target="_blank">UNIT6</a>
 
 ### Say hello to me:
 
