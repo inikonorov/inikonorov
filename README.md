@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi, I'm Ivan 👋
 
-<!--
-**inikonorov/inikonorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧔 22 years old <br />
+🏠 Chelyabinsk, Russia <br />
+❤️ Fell in love with JS <br />
+📚 Non-fiction <br />
+🎥 Psychological thrillers <br />
+🎲 Board games
 
-Here are some ideas to get you started:
+### Work
+😘 Junior Full-Stack Developer at <a href="https://introvert.bz/" target="_blank">Introvert</a> <br />
+😍 Junior Frontend Developer at <a href="https://unit6.dev/" target="_blank">UNIT6</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Say hello to me:
+
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>](mailto:iunikonorov@gmail.com)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>](https://t.me/inikonorov)
+[<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/iunikonorov/)
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
