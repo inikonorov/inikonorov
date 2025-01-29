@@ -1,7 +1,7 @@
 ### Hi, I'm Ivan 👋
 
-🧔 23 years old <br />
-🏠 Frontend Developer at <a href="https://unit6.dev/" target="_blank">UNIT6</a> <br />
+🧔 26 years old <br />
+🏠 Frontend Developer at <a href="https://tbank.ru/" target="_blank">T-Bank</a> <br />
 ❤️ Fell in love with JS <br />
 📚 Non-fiction <br />
 🎥 Psychological thrillers <br />
